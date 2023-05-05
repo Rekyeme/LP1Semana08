@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassVsStruct", "ClassVsStruct\ClassVsStruct.csproj", "{676A2A9C-4000-43B4-B67D-1BC1E1C36657}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructWithRef", "StructWithRef\StructWithRef.csproj", "{A698DA67-E35D-4D37-8360-2340B1AE3568}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{676A2A9C-4000-43B4-B67D-1BC1E1C36657}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{676A2A9C-4000-43B4-B67D-1BC1E1C36657}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{676A2A9C-4000-43B4-B67D-1BC1E1C36657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A698DA67-E35D-4D37-8360-2340B1AE3568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A698DA67-E35D-4D37-8360-2340B1AE3568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A698DA67-E35D-4D37-8360-2340B1AE3568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A698DA67-E35D-4D37-8360-2340B1AE3568}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
